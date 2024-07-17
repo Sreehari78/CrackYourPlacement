@@ -10,7 +10,7 @@
 <strong>Input:</strong> matrix = [[1,1,1],[1,0,1],[1,1,1]]
 <strong>Output:</strong> [[1,0,1],[0,0,0],[1,0,1]]
 </pre>
-
+ 
 <p><strong class="example">Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg" style="width: 450px; height: 137px;" />
 <pre>
