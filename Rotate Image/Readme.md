@@ -2,7 +2,7 @@
 
 <p>You have to rotate the image <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>, which means you have to modify the input 2D matrix directly. <strong>DO NOT</strong> allocate another 2D matrix and do the rotation.</p>
 
-<h3><a href="https://leetcode.com/problems/rotate-image/submissions/1324927995"></h3>
+<h3><a href="https://leetcode.com/problems/rotate-image/submissions/1324927995">Click For My Solution Analysis</h3>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/08/28/mat1.jpg" style="width: 500px; height: 188px;" />
